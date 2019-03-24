@@ -3,7 +3,7 @@ import com.github.fge.jsonschema.main.JsonSchemaFactory
 
 
 object jsonSchemaValidator extends App {
-  val fruitSchema = JsonLoader.fromResource("/fruitJSON.json")
+  val fruitSchema = JsonLoader.fromResource("/fruitJSONSchema.json")
   val fruitJson = JsonLoader.fromResource("/fruitJSON.json")
 
   println("VALIDATING SCHEMA WITH GOOD MESSAGE")
