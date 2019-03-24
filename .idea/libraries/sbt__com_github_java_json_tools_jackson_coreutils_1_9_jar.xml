@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sbt: com.github.java-json-tools:jackson-coreutils:1.9:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.github.java-json-tools/jackson-coreutils/jars/jackson-coreutils-1.9.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.github.java-json-tools/jackson-coreutils/srcs/jackson-coreutils-1.9-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
